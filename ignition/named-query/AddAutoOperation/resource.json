@@ -18,7 +18,7 @@
     "cacheEnabled": false,
     "database": "JE_MES",
     "fallbackEnabled": false,
-    "lastModificationSignature": "54d8b726a7491f70a3b8d60a466650c3f01a31f9c45d691d9e3781f93870e68d",
+    "lastModificationSignature": "9a8540a22350fa783da006e6f28985ac110fb7ae86386867e0de805969971ceb",
     "permissions": [
       {
         "zone": "",
@@ -30,8 +30,8 @@
       }
     ],
     "lastModification": {
-      "actor": "admin",
-      "timestamp": "2023-01-05T04:10:51Z"
+      "actor": "external",
+      "timestamp": "2024-05-21T05:00:21Z"
     },
     "parameters": [
       {

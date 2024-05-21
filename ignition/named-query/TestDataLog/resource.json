@@ -18,7 +18,7 @@
     "cacheEnabled": false,
     "database": "JEMESNEW",
     "fallbackEnabled": false,
-    "lastModificationSignature": "8599a65ef7c7498a4ee29856f82da9be48e7513aaa0ac98536bbd2e7201f8a14",
+    "lastModificationSignature": "74649217318b79fb1079b244749c086a9a2c8b7b0e0bc6b1e4ac13a563fb30c4",
     "permissions": [
       {
         "zone": "",
@@ -26,8 +26,8 @@
       }
     ],
     "lastModification": {
-      "actor": "admin",
-      "timestamp": "2023-01-05T04:10:51Z"
+      "actor": "external",
+      "timestamp": "2024-05-21T05:00:21Z"
     },
     "parameters": [
       {

@@ -18,7 +18,7 @@
     "cacheEnabled": false,
     "database": "FM_ACIL",
     "fallbackEnabled": false,
-    "lastModificationSignature": "f221fe37cea3ff609282f2621f6bc3971a238c30f9963127799085500624e519",
+    "lastModificationSignature": "8f259a7bc38a8b888fece32a1107b701f761ebeba785d8d526d9bb1921294832",
     "permissions": [
       {
         "zone": "",
@@ -26,8 +26,8 @@
       }
     ],
     "lastModification": {
-      "actor": "admin",
-      "timestamp": "2022-05-20T15:22:20Z"
+      "actor": "external",
+      "timestamp": "2024-05-21T05:00:21Z"
     }
   }
 }
